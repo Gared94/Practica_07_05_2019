@@ -1,0 +1,10 @@
+C:\Users\Lab3\Documents\Visual Studio 2013\Projects\BaseDatos\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\Lab3\Documents\Visual Studio 2013\Projects\BaseDatos\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\Lab3\Documents\Visual Studio 2013\Projects\BaseDatos\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Documents\Visual Studio 2013\Projects\BaseDatos\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\Lab3\Documents\Visual Studio 2013\Projects\BaseDatos\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\Lab3\Desktop\BaseDatos\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\Lab3\Desktop\BaseDatos\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\Lab3\Desktop\BaseDatos\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\BaseDatos\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\Lab3\Desktop\BaseDatos\capaDatos\obj\Debug\capaDatos.pdb
