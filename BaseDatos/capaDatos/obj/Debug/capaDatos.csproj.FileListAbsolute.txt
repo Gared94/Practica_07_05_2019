@@ -8,3 +8,8 @@ C:\Users\Lab3\Desktop\BaseDatos\capaDatos\bin\Debug\capaDatos.pdb
 C:\Users\Lab3\Desktop\BaseDatos\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
 C:\Users\Lab3\Desktop\BaseDatos\capaDatos\obj\Debug\capaDatos.dll
 C:\Users\Lab3\Desktop\BaseDatos\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\Lab3\Desktop\Practica_07_05_2019-master\BaseDatos\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\Lab3\Desktop\Practica_07_05_2019-master\BaseDatos\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\Lab3\Desktop\Practica_07_05_2019-master\BaseDatos\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Practica_07_05_2019-master\BaseDatos\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\Lab3\Desktop\Practica_07_05_2019-master\BaseDatos\capaDatos\obj\Debug\capaDatos.pdb

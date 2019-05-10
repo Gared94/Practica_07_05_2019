@@ -33,23 +33,55 @@ namespace capaPresentacion
 
         private void btnInsertar_Click(object sender, EventArgs e)
         {
+            
             obj.CodVendor = txtCodigoVen.Text;
-            obj.NombreVendor = txtNombreVen.Text;
+            obj.NombreVendor = txtNombreVen.Text;            
             obj.insertVendor();
+            limpiar();
+            cargar();
         }
 
         private void btnActualizar_Click(object sender, EventArgs e)
         {
+            
             obj.CodVendor = txtCodigoVen.Text;
             obj.NombreVendor = txtNombreVen.Text;
             obj.updateVendor();
+            limpiar();
+            cargar();
         }
 
         private void btnBorrar_Click(object sender, EventArgs e)
         {
-            txtCodigoVen.Text =obj.CodVendor;
-            txtNombreVen.Text =obj.NombreVendor;
-            obj.selectVendor();
+            
+            obj.CodVendor = txtCodigoVen.Text;
+            obj.deleteVendor();
+            limpiar();
+            cargar();
         }
+
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        public void limpiar() {
+            dataGridView1.DataSource = null;
+            dataGridView1.DataSource = obj.dt;
+        }
+        public void cargar() {
+            obj.selectVendor();
+            
+            dataGridView1.DataSource = obj.dt;
+        }
+        private void button2_Click(object sender, EventArgs e)
+        {
+            limpiar();
+            cargar();
+        }
+
+       
+       
     }
 }

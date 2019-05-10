@@ -24,3 +24,16 @@ C:\Users\Lab3\Desktop\BaseDatos\capaPresentacion\obj\Debug\capaPresentacion.cspr
 C:\Users\Lab3\Desktop\BaseDatos\capaPresentacion\obj\Debug\capaPresentacion.frmVendor.resources
 C:\Users\Lab3\Desktop\BaseDatos\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
 C:\Users\Lab3\Desktop\BaseDatos\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\Practica_07_05_2019-master\BaseDatos\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\Lab3\Desktop\Practica_07_05_2019-master\BaseDatos\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\Lab3\Desktop\Practica_07_05_2019-master\BaseDatos\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\Lab3\Desktop\Practica_07_05_2019-master\BaseDatos\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\Lab3\Desktop\Practica_07_05_2019-master\BaseDatos\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\Lab3\Desktop\Practica_07_05_2019-master\BaseDatos\capaPresentacion\bin\Debug\capaNegocios.dll
+C:\Users\Lab3\Desktop\Practica_07_05_2019-master\BaseDatos\capaPresentacion\bin\Debug\capaDatos.dll
+C:\Users\Lab3\Desktop\Practica_07_05_2019-master\BaseDatos\capaPresentacion\bin\Debug\capaNegocios.pdb
+C:\Users\Lab3\Desktop\Practica_07_05_2019-master\BaseDatos\capaPresentacion\bin\Debug\capaDatos.pdb
+C:\Users\Lab3\Desktop\Practica_07_05_2019-master\BaseDatos\capaPresentacion\obj\Debug\capaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Practica_07_05_2019-master\BaseDatos\capaPresentacion\obj\Debug\capaPresentacion.frmVendor.resources
+C:\Users\Lab3\Desktop\Practica_07_05_2019-master\BaseDatos\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\Lab3\Desktop\Practica_07_05_2019-master\BaseDatos\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.Cache

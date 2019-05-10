@@ -14,7 +14,8 @@ namespace capaDatos
     {
         SqlDataAdapter adaptador;
         SqlCommandBuilder comm;
-        SqlConnection conexion = new SqlConnection();
+        public SqlConnection conexion = new SqlConnection();
+        public SqlDataAdapter da;
         SqlCommand comando;
 
         String cadenaConex = "Data Source=localhost;Initial Catalog=DBFACTURAS;User ID=julio_perez2;Password=123";
@@ -56,6 +57,21 @@ namespace capaDatos
                 mensaje = "Correctamente";
             }
             catch(Exception e)
+            {
+                mensaje = "Error";
+            }
+        }
+
+        public void mostrarSQL(string consulta)
+        {
+            String mensaje = "Error";
+            try
+            {
+                comando = new SqlCommand(consulta, conexion);
+                da = new SqlDataAdapter(comando);
+                mensaje = "Correctamente";
+            }
+            catch (Exception e)
             {
                 mensaje = "Error";
             }

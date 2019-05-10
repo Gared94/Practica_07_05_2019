@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data;
+using System.Data.Sql;
 
 namespace capaNegocios
 {
@@ -11,7 +13,7 @@ namespace capaNegocios
     {
         bdConex test = new bdConex();
         private string codVendor, nombreVendor;
-
+        public DataTable dt = new DataTable();
         public string CodVendor
         {
             get { return codVendor; }
@@ -55,13 +57,13 @@ namespace capaNegocios
             }
         }
 
-        public void selectVendor()
+        public void deleteVendor()
         {
             try
             {
-                String select = "SELECT * FROM VENDEDOR='" + codVendor + "'";
+                String delete = "DELETE FROM VENDEDOR WHERE VENDEDOR ='" + codVendor + "'";
                 test.Conectar();
-                test.consultarSQL(select);
+                test.consultarSQL(delete);
                 test.Desconectar();
             }
             catch (Exception e)
@@ -69,6 +71,24 @@ namespace capaNegocios
 
             }
         }
+
+        public void selectVendor()
+        {
+            try
+            {
+                String select = "SELECT * FROM VENDEDOR";
+                test.Conectar();
+                test.mostrarSQL(select);
+                test.da.Fill(dt);
+                test.Desconectar();
+            }
+            catch (Exception e)
+            {
+
+            }
+        }
+
+
 
         public String prueba() 
         {
